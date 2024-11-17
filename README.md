@@ -91,17 +91,6 @@
   </a>
 </p>
 
-
----
-
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="center" style="width:30px; height: 30px">
-<a href="www.linkedin.com/in/dewmini-nawodya-35b43b258" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
-<a href="https://www.instagram.com/dewdew1226/?igsh=ZWkxeXozZ3FsaTF0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
-</p>
-
-
 ---
 
 <h3 align="left">GitHub Stats: </h3>
@@ -133,5 +122,13 @@
   </table>
 </p>
 
+---
+
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="center" style="width:30px; height: 30px">
+<a href="www.linkedin.com/in/dewmini-nawodya-35b43b258" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
+<a href="https://www.instagram.com/dewdew1226/?igsh=ZWkxeXozZ3FsaTF0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
+</p>
 
 ---
