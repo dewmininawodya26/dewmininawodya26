@@ -1,10 +1,11 @@
+<p align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px" /></picture></p>
 <h1 align="center">Hi 👋, I'm Dewmini Nawodya</h1>
 <h3 align="center">Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry.</h3>
 
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=dewmininawodya26&label=Profile%20views&color=0e75b6&style=flat" alt="dewmininawodya26" /> </p>
 
 ---
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h3 align="left">About Me:</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
